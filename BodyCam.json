@@ -1,15 +1,15 @@
 {
     "appStoreData": {
         "gameName": "BodyCam Shooter",
-        "appVersion": "1.2",
+        "appVersion": "1.5",
         "buildVersion": "0",
         "storeURL": "https://apps.apple.com/us/app/bodycam-shooter/id6740242477",
         "description": "A new Update Awailable"
     },
     "playStoreData": {
         "gameName": "BodyCam: FPS Shooting Games",
-        "appVersion": "1.2",
-        "buildVersion": "3",
+        "appVersion": "1.5",
+        "buildVersion": "5",
         "storeURL": "https://play.google.com/store/apps/datasafety?id=com.TreeObit.BodyCamShooter",
         "description": "A new Update Awailable"
     }
